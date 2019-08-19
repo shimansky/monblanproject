@@ -1,0 +1,137 @@
+@font-face { font-family: 'ProximaNova-Semibold';  src: local('ProximaNova-Semibold'), url('https://nomail.com.ua/files/woff/f14eee643541cf03a10f26c944cc29f5.woff') format('woff'); }
+
+@font-face { font-family: 'SQDRSS+MyriadPro-Regular';  src: local('SQDRSS+MyriadPro-Regular'), url('https://nomail.com.ua/files/woff/21bcef3182c4a23cfaae1b4ffa104187.woff') format('woff'); }
+
+@font-face { font-family: 'HelveticaNeueCyr-Roman';  src: local('HelveticaNeueCyr-Roman'), url('https://nomail.com.ua/files/woff/cd2355028bca504c63a432c086eceb52.woff') format('woff'); }
+
+@font-face { font-family: 'ProximaNovaCond-Regular';  src: local('ProximaNovaCond-Regular'), url('https://nomail.com.ua/files/woff/a32050a8cd4afc3f7406bc824e209cc8.woff') format('woff'); }
+
+body{
+  text-align: center;
+  background-color: #fafafa;
+}
+
+header{
+  background-color: white;
+  margin-bottom: 71px;
+  box-shadow: 0 0 24px #d9d9d9;
+  text-align: center;
+}
+
+#datepiker{
+  margin-bottom: 10px;
+}
+
+.datepicker-here{
+  border-radius: 5px;
+}
+
+.container{
+  max-width: 913px;
+}
+
+#loadMore{
+  width: 124px;
+  height: 28px;
+  border: 1px solid black;
+  border-radius: 15px;
+  color: black;
+  font-family: ProximaNovaCond-Regular;
+  display: inline-block;
+  margin: 30px;
+}
+
+#data{
+  margin-top: 44px;
+}
+
+#label{
+  font-family: SQDRSS+MyriadPro-Regular;
+  color: red;
+  font-weight: 500;
+  color: black;
+  font-size: 25pt;
+}
+
+#startDate{
+  font-family: HelveticaNeueCyr-Roman;
+  font-size: 12pt;
+  color: #4090db;
+  border: 1px solid #4090db;
+  border-radius: 5px;
+  padding: 4px;
+}
+
+main{
+  display: inline-block;
+  max-width: 913px;
+  text-align: center;
+}
+
+#fullRight{
+display: inline-block;
+  float: right;
+}
+
+
+.block{
+  padding: 50px;
+  margin: 10px;
+  width: 291px;
+  height: 292px;
+  display: inline-block;
+  font-family: ProximaNova-Semibold;
+  color: white;
+
+}
+
+#block1{
+
+  background-image: url(../img/block1.png);
+  background-size: cover;
+  display: inline-block;
+}
+
+#block2{
+
+  background-image: url(../img/block2.png);
+  background-size: cover;
+  display: inline-block;
+}
+
+#block3{
+
+  background-image: url(../img/block3.png);
+  background-size: cover;
+  display: inline-block;
+}
+
+#block4{
+  background-image: url(../img/block4.png);
+  background-size: cover;
+}
+
+#block5{
+  background-image: url(../img/block5.png);
+  background-size: cover;
+}
+
+#block6{
+  background-image: url(../img/block6.png);
+  background-size: cover;
+}
+
+#block7{
+  background-image: url(../img/block7.png);
+  background-size: cover;
+}
+
+#block8{
+  background-image: url(../img/block8.png);
+  background-size: cover;
+}
+
+#block9{
+  background-image: url(../img/block9.png);
+  background-size: cover;
+}
